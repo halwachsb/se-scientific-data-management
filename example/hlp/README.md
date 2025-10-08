@@ -27,5 +27,6 @@ library(RCurl) # Functions to fetch URIs
 library(ggplot2) # The Chuck Norris of data visualization
 library(dplyr) # facilitate manipulation of data frames
 library(tidyr) # For data cleaning
-Be patient. It will take a while. Good luck!
+
 ```
+### Be patient. It will take a while. Good luck!
