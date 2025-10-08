@@ -118,7 +118,7 @@ print(target_range)
 
 Congratulations! You have created an GRanges object for your gene of interest providing the information about the region which should be screend for variants.
 
-# Continue now with analyzing the VCF data for you gene of interest [Analyze VCF stream](PROCESSVCF.md)
+## Continue now with analyzing the VCF data for you gene of interest [Analyze VCF stream](PROCESSVCF.md)
 
 
 
