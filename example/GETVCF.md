@@ -1,3 +1,5 @@
+### [< Back to previous topic](/example/PREPARATIONS.md)
+
 # Get VCF data about ornithine decarboxylase 1 - ODC1
 
 If you go to gnomAD and [search for ODC1](https://gnomad.broadinstitute.org/gene/ENSG00000115758?dataset=gnomad_r4) you can have a look at the available data in the gnomAD browser online and extract information manually. BUT image you are interesed in more than ONE gene.
