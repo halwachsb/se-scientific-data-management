@@ -1,3 +1,6 @@
+
+### [< Back to previous topic](/PROCESSVCF.md)
+
 # Visualization of gnomAD allele frequencis for ODC1
 
 A table is nice but a graphical visualization is better. Before visualization the generated frequency data has to be processed/structured so it can be used with one of the most powerfull packages of R, _ggplot2_. 
@@ -96,7 +99,7 @@ Optionally you can save the created plot to disk. Helpful when you create more t
 
 ```
 # 2. Save the plot
-#ggsave("most_frequent_alleles_odc1.png", plot = allele_plot, width = 8, height = 6)
+# ggsave("most_frequent_alleles_odc1.png", plot = allele_plot, width = 8, height = 6)
 ```
 
 ## Congratulations, you did it!
