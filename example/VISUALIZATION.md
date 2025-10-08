@@ -1,7 +1,7 @@
 
 ### [< Back to previous topic](/example/PROCESSVCF.md)
 
-# Visualization of gnomAD allele frequencis for ODC1
+# 7. Visualization of gnomAD allele frequencis for ODC1
 
 A table is nice but a graphical visualization is better. Before visualization the generated frequency data has to be processed/structured so it can be used with one of the most powerfull packages of R, _ggplot2_. 
 
