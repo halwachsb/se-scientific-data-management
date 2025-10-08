@@ -1,5 +1,5 @@
 
-### [< Back to previous topic](/PROCESSVCF.md)
+### [< Back to previous topic](/example/PROCESSVCF.md)
 
 # Visualization of gnomAD allele frequencis for ODC1
 
