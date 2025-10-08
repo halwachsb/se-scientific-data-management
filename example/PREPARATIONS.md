@@ -1,5 +1,5 @@
 # gnomAD allele frequency example
-Start with creating an account on [Posit Cloud](https://posit.cloud/). And create a new workspace for your new R project. Alternatively you can open your local R installation. 
+Open your local R Studio installation and add a new plain script.
 
 **Note:** You should append all the commands consecutively in one single R script; the parts have been split only for presentation purposes and to prevent getting lost in a disorganized page on GitHub
 
