@@ -1,3 +1,5 @@
+### [< Back to previous Topic](/example/GETVCF.md)
+
 # 3. Check the defined genomic range
 
 The following step is optional BUT ensures that the perviously defined URLs exist
