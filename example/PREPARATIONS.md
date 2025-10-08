@@ -77,6 +77,6 @@ library(tidyr) # For data cleaning
 ```
 Congratulations you have now successfully installed and loaded all necessary packages which we need in our example.
 
-# Continue with [Retrieve Data from gnomAD](GETVCF.md).
+### Continue with [Retrieve Data from gnomAD](GETVCF.md).
 
 
