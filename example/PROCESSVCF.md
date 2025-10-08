@@ -74,7 +74,7 @@ an_vector <- info_df$AN
 results_odc1 <- cbind(results_odc1, af_df, ac_df, AN=an_vector)
 ```
 
-# Make the output pretty
+# 6. Make the output pretty
 
 ```
 #Calculate AC / AN for sanity check for the first allele
@@ -103,4 +103,4 @@ print(head(final_output[order(final_output$POS), ], 30))
 
 While that is effective, a graphical visualization would offer a better presentation; therefore, let's proceed with creating one.
 
-## Continue with [Graphical Visualization](VISUALIZATION.md)
+### Continue with [Graphical Visualization](VISUALIZATION.md)
