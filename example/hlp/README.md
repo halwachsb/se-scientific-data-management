@@ -1,5 +1,6 @@
 Since the installation of the necessary packages will take some time, we will start this process earlier during the seminar to be ready for the afternoon practical session.
 
+```
 #Install Bioconductor packages if you haven't already
 #if (!requireNamespace("BiocManager", quietly = TRUE))
 install.packages("BiocManager")
@@ -27,3 +28,4 @@ library(ggplot2) # The Chuck Norris of data visualization
 library(dplyr) # facilitate manipulation of data frames
 library(tidyr) # For data cleaning
 Be patient. It will take a while. Good luck!
+```
