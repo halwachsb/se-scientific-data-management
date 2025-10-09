@@ -2,7 +2,7 @@ Since the installation of the necessary packages will take some time, we will st
 
 ```
 #Install Bioconductor packages if you haven't already
-#if (!requireNamespace("BiocManager", quietly = TRUE))
+if (!requireNamespace("BiocManager", quietly = TRUE))
 install.packages("BiocManager")
 
 # Install all the needed Bioconductor packages
